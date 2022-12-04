@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import styles from './counter.module.scss';
+import styles from './Counter.module.scss';
 
 export interface CounterProps {
   initialCount?: number;
